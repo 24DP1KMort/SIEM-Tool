@@ -1,0 +1,236 @@
+[
+  {
+    "timestamp": "2026-03-30 08:01:12",
+    "ip": "192.168.1.105",
+    "user": "admin",
+    "event_type": "failed_login",
+    "raw": "2026-03-30 08:01:12 192.168.1.105 admin failed_login",
+    "id": 1,
+    "avota_fails": "/workspaces/SIEM-Tool/SIEM template(claude)/sample_logs.txt"
+  },
+  {
+    "timestamp": "2026-03-30 08:01:15",
+    "ip": "192.168.1.105",
+    "user": "admin",
+    "event_type": "failed_login",
+    "raw": "2026-03-30 08:01:15 192.168.1.105 admin failed_login",
+    "id": 2,
+    "avota_fails": "/workspaces/SIEM-Tool/SIEM template(claude)/sample_logs.txt"
+  },
+  {
+    "timestamp": "2026-03-30 08:01:18",
+    "ip": "192.168.1.105",
+    "user": "admin",
+    "event_type": "failed_login",
+    "raw": "2026-03-30 08:01:18 192.168.1.105 admin failed_login",
+    "id": 3,
+    "avota_fails": "/workspaces/SIEM-Tool/SIEM template(claude)/sample_logs.txt"
+  },
+  {
+    "timestamp": "2026-03-30 08:01:21",
+    "ip": "192.168.1.105",
+    "user": "admin",
+    "event_type": "failed_login",
+    "raw": "2026-03-30 08:01:21 192.168.1.105 admin failed_login",
+    "id": 4,
+    "avota_fails": "/workspaces/SIEM-Tool/SIEM template(claude)/sample_logs.txt"
+  },
+  {
+    "timestamp": "2026-03-30 08:01:24",
+    "ip": "192.168.1.105",
+    "user": "admin",
+    "event_type": "failed_login",
+    "raw": "2026-03-30 08:01:24 192.168.1.105 admin failed_login",
+    "id": 5,
+    "avota_fails": "/workspaces/SIEM-Tool/SIEM template(claude)/sample_logs.txt"
+  },
+  {
+    "timestamp": "2026-03-30 08:01:27",
+    "ip": "192.168.1.105",
+    "user": "admin",
+    "event_type": "failed_login",
+    "raw": "2026-03-30 08:01:27 192.168.1.105 admin failed_login",
+    "id": 6,
+    "avota_fails": "/workspaces/SIEM-Tool/SIEM template(claude)/sample_logs.txt"
+  },
+  {
+    "timestamp": "2026-03-30 08:15:00",
+    "ip": "10.0.0.5",
+    "user": "jānis",
+    "event_type": "success_login",
+    "raw": "2026-03-30 08:15:00 10.0.0.5 jānis success_login",
+    "id": 7,
+    "avota_fails": "/workspaces/SIEM-Tool/SIEM template(claude)/sample_logs.txt"
+  },
+  {
+    "timestamp": "2026-03-30 09:00:12",
+    "ip": "172.16.0.22",
+    "user": "root",
+    "event_type": "failed_login",
+    "raw": "2026-03-30 09:00:12 172.16.0.22 root failed_login",
+    "id": 8,
+    "avota_fails": "/workspaces/SIEM-Tool/SIEM template(claude)/sample_logs.txt"
+  },
+  {
+    "timestamp": "2026-03-30 09:00:15",
+    "ip": "172.16.0.22",
+    "user": "root",
+    "event_type": "failed_login",
+    "raw": "2026-03-30 09:00:15 172.16.0.22 root failed_login",
+    "id": 9,
+    "avota_fails": "/workspaces/SIEM-Tool/SIEM template(claude)/sample_logs.txt"
+  },
+  {
+    "timestamp": "2026-03-30 09:00:18",
+    "ip": "172.16.0.22",
+    "user": "root",
+    "event_type": "failed_login",
+    "raw": "2026-03-30 09:00:18 172.16.0.22 root failed_login",
+    "id": 10,
+    "avota_fails": "/workspaces/SIEM-Tool/SIEM template(claude)/sample_logs.txt"
+  },
+  {
+    "timestamp": "2026-03-30 09:00:21",
+    "ip": "172.16.0.22",
+    "user": "root",
+    "event_type": "failed_login",
+    "raw": "2026-03-30 09:00:21 172.16.0.22 root failed_login",
+    "id": 11,
+    "avota_fails": "/workspaces/SIEM-Tool/SIEM template(claude)/sample_logs.txt"
+  },
+  {
+    "timestamp": "2026-03-30 09:00:24",
+    "ip": "172.16.0.22",
+    "user": "root",
+    "event_type": "failed_login",
+    "raw": "2026-03-30 09:00:24 172.16.0.22 root failed_login",
+    "id": 12,
+    "avota_fails": "/workspaces/SIEM-Tool/SIEM template(claude)/sample_logs.txt"
+  },
+  {
+    "timestamp": "2026-03-30 09:00:27",
+    "ip": "172.16.0.22",
+    "user": "root",
+    "event_type": "failed_login",
+    "raw": "2026-03-30 09:00:27 172.16.0.22 root failed_login",
+    "id": 13,
+    "avota_fails": "/workspaces/SIEM-Tool/SIEM template(claude)/sample_logs.txt"
+  },
+  {
+    "timestamp": "2026-03-30 09:00:30",
+    "ip": "172.16.0.22",
+    "user": "root",
+    "event_type": "failed_login",
+    "raw": "2026-03-30 09:00:30 172.16.0.22 root failed_login",
+    "id": 14,
+    "avota_fails": "/workspaces/SIEM-Tool/SIEM template(claude)/sample_logs.txt"
+  },
+  {
+    "timestamp": "2026-03-30 09:00:33",
+    "ip": "172.16.0.22",
+    "user": "root",
+    "event_type": "failed_login",
+    "raw": "2026-03-30 09:00:33 172.16.0.22 root failed_login",
+    "id": 15,
+    "avota_fails": "/workspaces/SIEM-Tool/SIEM template(claude)/sample_logs.txt"
+  },
+  {
+    "timestamp": "2026-03-30 09:00:36",
+    "ip": "172.16.0.22",
+    "user": "root",
+    "event_type": "failed_login",
+    "raw": "2026-03-30 09:00:36 172.16.0.22 root failed_login",
+    "id": 16,
+    "avota_fails": "/workspaces/SIEM-Tool/SIEM template(claude)/sample_logs.txt"
+  },
+  {
+    "timestamp": "2026-03-30 09:00:39",
+    "ip": "172.16.0.22",
+    "user": "root",
+    "event_type": "failed_login",
+    "raw": "2026-03-30 09:00:39 172.16.0.22 root failed_login",
+    "id": 17,
+    "avota_fails": "/workspaces/SIEM-Tool/SIEM template(claude)/sample_logs.txt"
+  },
+  {
+    "timestamp": "2026-03-30 10:30:00",
+    "ip": "10.0.0.5",
+    "user": "jānis",
+    "event_type": "success_login",
+    "raw": "2026-03-30 10:30:00 10.0.0.5 jānis success_login",
+    "id": 18,
+    "avota_fails": "/workspaces/SIEM-Tool/SIEM template(claude)/sample_logs.txt"
+  },
+  {
+    "timestamp": "2026-03-30 23:45:00",
+    "ip": "45.33.32.156",
+    "user": "guest",
+    "event_type": "failed_login",
+    "raw": "2026-03-30 23:45:00 45.33.32.156 guest failed_login",
+    "id": 19,
+    "avota_fails": "/workspaces/SIEM-Tool/SIEM template(claude)/sample_logs.txt"
+  },
+  {
+    "timestamp": "2026-03-30 23:46:00",
+    "ip": "45.33.32.156",
+    "user": "guest",
+    "event_type": "failed_login",
+    "raw": "2026-03-30 23:46:00 45.33.32.156 guest failed_login",
+    "id": 20,
+    "avota_fails": "/workspaces/SIEM-Tool/SIEM template(claude)/sample_logs.txt"
+  },
+  {
+    "timestamp": "2026-03-30 23:47:00",
+    "ip": "45.33.32.156",
+    "user": "guest",
+    "event_type": "failed_login",
+    "raw": "2026-03-30 23:47:00 45.33.32.156 guest failed_login",
+    "id": 21,
+    "avota_fails": "/workspaces/SIEM-Tool/SIEM template(claude)/sample_logs.txt"
+  },
+  {
+    "timestamp": "2026-03-30 02:15:00",
+    "ip": "198.51.100.42",
+    "user": "administrator",
+    "event_type": "failed_login",
+    "raw": "2026-03-30 02:15:00 198.51.100.42 administrator failed_login",
+    "id": 22,
+    "avota_fails": "/workspaces/SIEM-Tool/SIEM template(claude)/sample_logs.txt"
+  },
+  {
+    "timestamp": "2026-03-30 02:16:00",
+    "ip": "198.51.100.42",
+    "user": "administrator",
+    "event_type": "failed_login",
+    "raw": "2026-03-30 02:16:00 198.51.100.42 administrator failed_login",
+    "id": 23,
+    "avota_fails": "/workspaces/SIEM-Tool/SIEM template(claude)/sample_logs.txt"
+  },
+  {
+    "timestamp": "2026-03-30 14:00:00",
+    "ip": "10.0.0.10",
+    "user": "māris",
+    "event_type": "success_login",
+    "raw": "2026-03-30 14:00:00 10.0.0.10 māris success_login",
+    "id": 24,
+    "avota_fails": "/workspaces/SIEM-Tool/SIEM template(claude)/sample_logs.txt"
+  },
+  {
+    "timestamp": "2026-03-30 14:05:00",
+    "ip": "10.0.0.10",
+    "user": "māris",
+    "event_type": "error",
+    "raw": "2026-03-30 14:05:00 10.0.0.10 māris error",
+    "id": 25,
+    "avota_fails": "/workspaces/SIEM-Tool/SIEM template(claude)/sample_logs.txt"
+  },
+  {
+    "timestamp": "2026-03-30 14:10:00",
+    "ip": "10.0.0.10",
+    "user": "māris",
+    "event_type": "access_denied",
+    "raw": "2026-03-30 14:10:00 10.0.0.10 māris access_denied",
+    "id": 26,
+    "avota_fails": "/workspaces/SIEM-Tool/SIEM template(claude)/sample_logs.txt"
+  }
+]
