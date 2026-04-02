@@ -1,0 +1,19 @@
+siem_tool/
+├── main.py                    ← Galvenā ieejas funkcija + izvēlne
+├── data/
+│   ├── logs.json              ← Žurnālfailu datubāze
+│   ├── alerts.json            ← Brīdinājumu datubāze
+│   ├── incidents.json         ← Incidentu datubāze
+│   └── sample_logs.txt        ← Testa dati
+└── modules/
+    ├── database.py            ← JSON datubāzes pārvaldība
+    ├── ui.py                  ← TUI saskarne (krāsas, izvēlnes)
+    ├── validator.py           ← Datu validācija
+    ├── log_loader.py          ← Failu ielāde (LOG/TXT/JSON)
+    ├── log_viewer.py          ← Ierakstu attēlošana ar lapošanu
+    ├── log_search.py          ← Meklēšana un filtrēšana
+    ├── log_analyzer.py        ← Draudu analīzes dzinējs
+    ├── alert_manager.py       ← Brīdinājumu pārvaldība
+    ├── statistics.py          ← Statistikas pārskati
+    ├── incident_manager.py    ← Incidentu reģistrācija
+    └── exporter.py            ← TXT/JSON eksports
